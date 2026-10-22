@@ -1,3 +1,6 @@
 [submodule "ReadPapers"]
 	path = ReadPapers
 	url = https://github.com/QWERDF007/ReadPapers.git
+[submodule "DailyWorkLogs"]
+	path = DailyWorkLogs
+	url = https://github.com/QWERDF007/DailyWorkLogs.git
